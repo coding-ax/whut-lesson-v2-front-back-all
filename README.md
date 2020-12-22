@@ -9,7 +9,7 @@ WHUTLessonV2文件夹，基于uniapp开发
 LessonV2文件夹，采用Flask开发，数据爬取自武汉理工大学教务官网
 
 在线版本：http://47.102.212.191/lessonh5/#/
-
+请使用手机模式打开（F12选择手机模式，并刷新）
 #### 预览界面
 
 ![](https://xgpax.top/wp-content/uploads/2020/08/93F52719E7AD1AE35D6FD5DA3C237BD8-138x300.jpg)
